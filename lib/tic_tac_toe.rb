@@ -1,4 +1,4 @@
 class Tic Tac Toe
   def initialize
-    @board = 
+    @board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
